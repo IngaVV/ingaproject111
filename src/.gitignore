@@ -1,2 +1,4 @@
 .idea
 target
+
+git branch --set-upstream-to=origin/master master
